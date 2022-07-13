@@ -2,6 +2,8 @@
 
 A Newtonian gravity-based orbital mechanics sim space exploration game for the [Pico-8](https://www.lexaloffle.com/pico-8.php).
 
+![Orbital logo screen gif](images/orblogo.gif)
+
 ### Features:
 
 - Procedurally generated cluster of 24 stars, each with 1-4 planets. Rather than utilizing the Map feature of Pico-8, which supports a pre-drawn map of 1024x512 pixels, this cluster utilizes the full range of possible values in Pico-8, generating a map that is 65,536x65,536 pixels in size, giving large interstellar spaces to navigate.
